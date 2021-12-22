@@ -405,7 +405,7 @@ public class FrmServerGUI extends javax.swing.JFrame implements Runnable {
     
     private void jButtonTheoDoiClientActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonTheoDoiClientActionPerformed
         if (tbComputerInfo.getSelectedRowCount() == 0) {
-            JOptionPane.showMessageDialog(rootPane, "Bạn chưa chọn máy để điều khiển!");
+            JOptionPane.showMessageDialog(rootPane, "Bạn chưa chọn máy để xem!");
             return;
         }
         Socket mayClient = getTbModel().getItem(tbComputerInfo.getSelectedRow());

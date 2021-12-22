@@ -8,8 +8,9 @@ import java.net.Socket;
 import zCLIENT.REMOTE.ChupManHinh;
 
 /**
- *
- * @author Nguyen Hong Phu (1142066) - 11HCB (HCMUS)
+ * Nguyen Nhat Truong
+ * Nguyen Huu Trong
+ * Ho Hy Khang
  */
 public class ScreenCapture{
     

@@ -5,8 +5,9 @@
 package zCLIENT;
 
 /**
- *
- * @author Nhom 1142014_1142066
+ * Nguyen Nhat Truong
+ * Nguyen Huu Trong
+ * Ho Hy Khang
  */
 public class zProgram {
 

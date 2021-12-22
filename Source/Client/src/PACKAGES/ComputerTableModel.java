@@ -7,8 +7,9 @@ import java.util.List;
 import javax.swing.table.AbstractTableModel;
 
 /**
- *
- * @author Nhom 1142014_1142066
+ * Nguyen Nhat Truong
+ * Nguyen Huu Trong
+ * Ho Hy Khang
  */
 public class ComputerTableModel extends AbstractTableModel {
 

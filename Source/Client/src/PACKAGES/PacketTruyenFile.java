@@ -1,8 +1,9 @@
 package PACKAGES;
 
 /**
- *
- * @author Nhom 1142014_1142066
+ * Nguyen Nhat Truong
+ * Nguyen Huu Trong
+ * Ho Hy Khang
  */
 public class PacketTruyenFile extends PacketTin {
     public static final String ID = "truyenfile";

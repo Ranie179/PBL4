@@ -5,8 +5,9 @@ import java.awt.Toolkit;
 import javax.swing.JDialog;
 
 /**
- *
- * @author Nhom 1142014_1142066
+ * Nguyen Nhat Truong
+ * Nguyen Huu Trong
+ * Ho Hy Khang
  */
 public class GuiUtils {
     public static void showDialog(JDialog jDialog, boolean model){

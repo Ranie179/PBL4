@@ -113,9 +113,6 @@ public class ObjectUtils {
             throw new RuntimeException(e);
         }
     }
-    /*
-     * @Author: https://tranhanhuy.wordpress.com/
-     */
     public static String backlashReplace(String myStr) {
         final StringBuilder result = new StringBuilder();
         final StringCharacterIterator iterator = new StringCharacterIterator(myStr);

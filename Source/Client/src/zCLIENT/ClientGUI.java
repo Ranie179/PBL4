@@ -17,8 +17,9 @@ import zCLIENT.REMOTE.GoiManHinh;
 import zCLIENT.REMOTE.ThaoTacManHinh;
 
 /**
- *
- * @author Nhom 1142014_1142066
+ * Nguyen Nhat Truong
+ * Nguyen Huu Trong
+ * Ho Hy Khang
  */
 public class ClientGUI extends javax.swing.JFrame implements Runnable {
 

@@ -12,8 +12,9 @@ import java.text.StringCharacterIterator;
 import java.util.Date;
 
 /**
- *
- * @author Nhom (1142066_1142014)
+ * Nguyen Nhat Truong
+ * Nguyen Huu Trong
+ * Ho Hy Khang
  */
 public class ObjectUtils {
 
